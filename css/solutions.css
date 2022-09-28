@@ -145,7 +145,7 @@
 
 @keyframes borderspin2 {
   0%{
-    right: 20%;
+    right: 10%;
   }
 
   25%{
@@ -161,7 +161,7 @@
   }
 
   100%{
-    right: 20%;
+    right: 10%;
   }
 }
 
